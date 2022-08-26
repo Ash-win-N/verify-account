@@ -1,4 +1,8 @@
-<h1 align="center"></h1><br>
-Live preview: <a href="https://ash-win-n.github.io/verify-account/">Verify Account using code sent to your mail</a><br>
+<h1 align="center">Verify Account UI</h1><br>
+Live preview: <a href="https://ash-win-n.github.io/verify-account/">Verify Account UI</a><br>
+<p align="center">
+
+<img width="754" alt="image" src="https://user-images.githubusercontent.com/70138036/186876479-d492fb5c-4712-4c90-8ec4-a7ca8b7e63ad.png">
 
 
+</p>
